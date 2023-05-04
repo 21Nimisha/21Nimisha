@@ -25,7 +25,7 @@ As a data scientist, I have experience using machine learning algorithms with Py
 - 🔭 I’m currently working on Machine Learning Algorithm Projects
 - 🌱 I’m currently learning NLP, Deep Learning
 - 🌱 I’m addicted to learning and growing every day
-- 🌍 I am currently sharing a little bit of my knowledge to the world through
+- 🌍 I am currently sharing a little bit of my knowledge to the world through my linkedin post and blog.
 - 📫 Connect with me on:<a href="https://medium.com/@nimishasingh.1987">
     <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-306.png"/></a>
 <a href="https://www.linkedin.com/in/nimisha-singh-b6183419/"><img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
