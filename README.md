@@ -36,7 +36,7 @@ As a data scientist, I have experience using machine learning algorithms with Py
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nimishasingh.1987/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nimishasingh.1987/3" alt="Recent Article 3">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nimishasingh.1987/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nimishasingh.1987/4" alt="Recent Article 4">
    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nimishasingh.1987/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nimishasingh.1987/4" alt="Recent Article 5">
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nimishasingh.1987/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nimishasingh.1987/4" alt="Recent Article 6">
+ 
 
 - ⚡ Fun fact:😃 
 "Did you know that I'm a lifelong learner who's always on the hunt for new knowledge? I'm also a bit of a ziddi (determined) person who never gives up on a challenge. When I'm not busy making tough decisions, you can find me spending time with kids, hitting the gym, playing games, or delving into a good book. And if all else fails, I love exploring Google to uncover new insights and ideas!"
