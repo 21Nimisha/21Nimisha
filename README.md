@@ -35,7 +35,7 @@ As a data scientist, I have experience using machine learning algorithms with Py
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nimishasingh.1987/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nimishasingh.1987/2" alt="Recent Article 2">
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nimishasingh.1987/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nimishasingh.1987/3" alt="Recent Article 3">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nimishasingh.1987/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nimishasingh.1987/4" alt="Recent Article 4">
-   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nimishasingh.1987/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nimishasingh.1987/4" alt="Recent Article 5">
+  
  
 
 - ⚡ Fun fact:😃 
@@ -58,4 +58,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nimishasingh.1987/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nimishasingh.1987/4" alt="Recent Article 5">
 -->
