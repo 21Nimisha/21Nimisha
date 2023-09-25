@@ -2,9 +2,13 @@
 
 ##### About Myself :blush::- 
 "I am a finance professional turned data scientist with a passion for statistics and data insights.
-As a data scientist, I have experience using machine learning algorithms with Python and other tools to gain insights from data and understand the environment. With more than 3k followers on LinkedIn, I am passionate about constantly learning and growing, and consider my journey in the field to be ongoing. On my GitHub profile, you can find a range of projects showcasing my skills and experience, from data analysis and visualization to machine learning models and data pipelines. I strive to make my code clear, well-documented, and accessible to others in the field."
+As a data scientist, I have experience using machine learning algorithms with Python and other tools to gain insights from data and understand the environment. With more than 3k followers on LinkedIn, I am passionate about constantly learning and growing and consider my journey in the field to be ongoing. On my GitHub profile, you can find a range of projects showcasing my skills and experience, from data analysis and visualization to machine learning models and data pipelines. I strive to make my code clear, well-documented, and accessible to others in the field."
 
 ### My Github Stats- 
+
+![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=%24.views&url=https://api.github.com/users/21Nimisha)
+
+
 
 ![Github Stats3](https://github-readme-stats.vercel.app/api?username=21Nimisha)
 
@@ -25,7 +29,7 @@ As a data scientist, I have experience using machine learning algorithms with Py
 - 🔭 I’m currently working on Machine Learning Algorithm Projects
 - 🌱 I’m currently learning NLP, Deep Learning
 - 🌱 I’m addicted to learning and growing every day
-- 🌍 I am currently sharing a little bit of my knowledge to the world through my linkedin post and blog.
+- 🌍 I am currently sharing a little bit of my knowledge with the world through my LinkedIn post and blog.
 - 📫 Connect with me on:<a href="https://medium.com/@nimishasingh.1987">
     <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-306.png"/></a>
 <a href="https://www.linkedin.com/in/nimisha-singh-b6183419/"><img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
@@ -35,7 +39,7 @@ As a data scientist, I have experience using machine learning algorithms with Py
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nimishasingh.1987/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nimishasingh.1987/2" alt="Recent Article 2">
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nimishasingh.1987/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nimishasingh.1987/3" alt="Recent Article 3">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nimishasingh.1987/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nimishasingh.1987/4" alt="Recent Article 4">
-      <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nimishasingh.1987/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nimishasingh.1987/4" alt="Recent Article 5">
+
 
   
  
