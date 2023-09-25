@@ -6,8 +6,9 @@ As a data scientist, I have experience using machine learning algorithms with Py
 
 ### My Github Stats- 
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=%24.views&url=https://api.github.com/users/21Nimisha)
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=21Nimisha&label=Profile%20views&color=0e75b6&style=flat" alt="21Nimisha" />
+</p>
 
 
 ![Github Stats3](https://github-readme-stats.vercel.app/api?username=21Nimisha)
