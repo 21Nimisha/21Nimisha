@@ -2,7 +2,7 @@
 
 ##### About Myself :blush::- 
 "I am a finance professional turned data scientist with a passion for statistics and data insights.
-As a data scientist, I have experience using machine learning algorithms with Python and other tools to gain insights from data and understand the environment. With more than 3k followers on LinkedIn, I am passionate about constantly learning and growing and consider my journey in the field to be ongoing. On my GitHub profile, you can find a range of projects showcasing my skills and experience, from data analysis and visualization to machine learning models and data pipelines. I strive to make my code clear, well-documented, and accessible to others in the field."
+As a data scientist, I have experience using machine learning algorithms with Python and other tools to gain insights from data and understand the environment. With more than 7k followers on LinkedIn, I am passionate about constantly learning and growing and consider my journey in the field to be ongoing. On my GitHub profile, you can find a range of projects showcasing my skills and experience, from data analysis and visualization to machine learning models and data pipelines. I strive to make my code clear, well-documented, and accessible to others in the field."
 
 ### My Github Stats- 
 
